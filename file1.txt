@@ -1,0 +1,3 @@
+hello.
+git hub used store the files private or public.
+mkdir : to create new directory 
